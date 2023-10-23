@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #fbf2e9;
+	font-family: sans-serif;
+}
+.container {
+	width: 500px;
+	margin: 40px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container h2 {
+	font-size: 20px;
+	margin-right: 15px;
+}
+.container i {
+	font-size: 20px;
+	cursor: pointer;
+}
