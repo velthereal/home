@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container {
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	background: url(../images/20.jpg) no-repeat;
+	background-size: cover;
+	overflow: hidden;
+	position: relative;
+}
+#animal {
+	width: 150px;
+	position: absolute;
+}
